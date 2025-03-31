@@ -74,7 +74,6 @@ Os detalhes de como o **Sistema de Recrutamento e Seleção - ContratAe** atinge
 ## Escopo do produto
 
 O **Sistema de Recrutamento e Seleção - ContratAe** é um sistema que tem como objetivo conectar candidatos da área de tecnologia as melhores vagas do mercado. Será usada por candidatos que buscar uma nova oportunidades e por recrutadores em busca de talentos.
----
 
 # Posicionamento
 
